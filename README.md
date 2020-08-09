@@ -2,6 +2,7 @@
     <img src="https://symfony.com/logos/symfony_black_02.svg">
 </a></p>
 
+LOL!!!!!!!!!!!!
 [Symfony][1] is a **PHP framework** for web and console applications and a set of reusable
 **PHP components**. Symfony is used by thousands of web applications (including
 BlaBlaCar.com and Spotify.com) and most of the [popular PHP projects][2] (including
